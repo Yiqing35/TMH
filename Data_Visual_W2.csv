@@ -1,4 +1,4 @@
-﻿ ,$/MWh,Power for 4 cars (kw),Charging_Loads(kwh),Charging_Costs ($)
+﻿Hour,$/MWh,Power for 4 cars (kw),Charging_Loads(kwh),Charging_Costs ($)
 12:00:00 AM,15.39,0,0,0
 1:00:00 AM,15.47,0,0,0
 2:00:00 AM,14.94,0,0,0
